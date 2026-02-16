@@ -110,20 +110,4 @@ Atuo com Python, SQL e Google Cloud (GCP), desenvolvendo soluções que integram
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlordaro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlordaro&show_icons=true)
