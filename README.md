@@ -108,6 +108,4 @@ Atuo com Python, SQL e Google Cloud (GCP), desenvolvendo soluções que integram
 ---
 <br/>
 
-### 📊 Estatísticas
 
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlordaro&show_icons=true)
