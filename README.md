@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vinicius Lordaro
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Sou Engenheiro de Dados com experiência na construção de pipelines ETL ponta a ponta, automação de processos e arquitetura de dados escalável.
 
