@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vinicius Lordaro
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedora FullStack`**
 
 Sou Engenheiro de Dados com experiência na construção de pipelines ETL ponta a ponta, automação de processos e arquitetura de dados escalável.
 
@@ -23,6 +23,13 @@ Atuo com Python, SQL e Google Cloud (GCP), desenvolvendo soluções que integram
             src="https://custom-icon-badges.demolab.com/github/followers/Vlordaro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/Vlordaro">
+    <img 
+        alt="LinkedIn" 
+        title="Me siga no LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-icone&logoColor=white"
+    />
+</a>
 </p>
 
 
