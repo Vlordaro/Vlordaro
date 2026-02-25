@@ -1,6 +1,6 @@
 # Vinicius Lordaro
 
-**`Desenvolvedora FullStack`**
+**`Data Engineer | Python & SQL | ETL | BigQuery | GCP | Automação de Processos | Dashboards & Observabilidade`**
 
 Sou Engenheiro de Dados com experiência na construção de pipelines ETL ponta a ponta, automação de processos e arquitetura de dados escalável.
 
