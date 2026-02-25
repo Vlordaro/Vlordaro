@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vinicius Lordaro
+# Vinicius Lordaro
 
 **`Desenvolvedora FullStack`**
 
